@@ -20,9 +20,9 @@ def checkIfNeedCooldown(machine,steps):
   # Handle dependencies in other function? step['dependency'] or maybe here
 
 def verifyDependency(dependencies,wafer,step_id):
-  proc_times = list[wafer[0]['processing_times'].keys()]
+  proc_times = list(wafer[0]['processing_times'].keys())
   for i in dependencies:
-    if i in  proc_times:
+    if i in proc_times:
       print("Yes , dependencie for ",i," in ",dependencies)
       return False
   else :
