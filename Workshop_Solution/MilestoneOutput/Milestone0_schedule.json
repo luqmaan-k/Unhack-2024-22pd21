@@ -18,8 +18,8 @@
             "wafer_id":"W1-2",
             "step":"S1",
             "machine":"M1",
-            "start_time":10,
-            "end_time":20
+            "start_time":15,
+            "end_time":25
         },
         {
             "wafer_id":"W1-1",
