@@ -1,0 +1,18 @@
+{
+    "schedule":[
+        {
+            "wafer_id":"W1-1",
+            "step":"1",
+            "machine":"M1",
+            "start_time":5,
+            "end_time":5
+        },
+        {
+            "wafer_id":"W1-2",
+            "step":"2",
+            "machine":"M2",
+            "start_time":5,
+            "end_time":5
+        }
+    ]
+}
