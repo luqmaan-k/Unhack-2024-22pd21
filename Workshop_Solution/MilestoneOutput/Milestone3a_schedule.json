@@ -67,8 +67,8 @@
             "wafer_id":"W2-5",
             "step":"S2",
             "machine":"M2",
-            "start_time":71,
-            "end_time":85
+            "start_time":56,
+            "end_time":70
         }
     ]
 }

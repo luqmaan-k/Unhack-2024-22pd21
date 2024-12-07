@@ -165,8 +165,8 @@
             "wafer_id":"W2-6",
             "step":"S4",
             "machine":"M4",
-            "start_time":78,
-            "end_time":88
+            "start_time":50,
+            "end_time":60
         },
         {
             "wafer_id":"W1-19",
@@ -179,2976 +179,2976 @@
             "wafer_id":"W1-20",
             "step":"S3",
             "machine":"M3",
-            "start_time":87,
-            "end_time":97
+            "start_time":60,
+            "end_time":70
         },
         {
             "wafer_id":"W1-21",
             "step":"S2",
             "machine":"M2",
-            "start_time":135,
-            "end_time":155
+            "start_time":120,
+            "end_time":140
         },
         {
             "wafer_id":"W1-22",
             "step":"S1",
             "machine":"M1",
-            "start_time":115,
-            "end_time":130
+            "start_time":105,
+            "end_time":120
         },
         {
             "wafer_id":"W2-7",
             "step":"S4",
             "machine":"M4",
-            "start_time":116,
-            "end_time":126
+            "start_time":60,
+            "end_time":70
         },
         {
             "wafer_id":"W1-23",
             "step":"S2",
             "machine":"M2",
-            "start_time":170,
-            "end_time":190
+            "start_time":140,
+            "end_time":160
         },
         {
             "wafer_id":"W1-24",
             "step":"S3",
             "machine":"M3",
-            "start_time":124,
-            "end_time":134
+            "start_time":70,
+            "end_time":80
         },
         {
             "wafer_id":"W2-8",
             "step":"S4",
             "machine":"M4",
-            "start_time":154,
-            "end_time":164
+            "start_time":70,
+            "end_time":80
         },
         {
             "wafer_id":"W1-25",
             "step":"S1",
             "machine":"M1",
-            "start_time":140,
-            "end_time":155
+            "start_time":120,
+            "end_time":135
         },
         {
             "wafer_id":"W1-26",
             "step":"S3",
             "machine":"M3",
-            "start_time":161,
-            "end_time":171
+            "start_time":80,
+            "end_time":90
         },
         {
             "wafer_id":"W1-27",
             "step":"S2",
             "machine":"M2",
-            "start_time":205,
-            "end_time":225
+            "start_time":160,
+            "end_time":180
         },
         {
             "wafer_id":"W1-28",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":135,
+            "end_time":150
+        },
+        {
+            "wafer_id":"W2-9",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":80,
+            "end_time":90
+        },
+        {
+            "wafer_id":"W1-29",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":180,
+            "end_time":200
+        },
+        {
+            "wafer_id":"W1-30",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":90,
+            "end_time":100
+        },
+        {
+            "wafer_id":"W2-10",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":90,
+            "end_time":100
+        },
+        {
+            "wafer_id":"W1-31",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":150,
+            "end_time":165
+        },
+        {
+            "wafer_id":"W1-32",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":100,
+            "end_time":110
+        },
+        {
+            "wafer_id":"W1-33",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":200,
+            "end_time":220
+        },
+        {
+            "wafer_id":"W1-34",
             "step":"S1",
             "machine":"M1",
             "start_time":165,
             "end_time":180
         },
         {
-            "wafer_id":"W2-9",
+            "wafer_id":"W2-11",
             "step":"S4",
             "machine":"M4",
-            "start_time":192,
-            "end_time":202
+            "start_time":100,
+            "end_time":110
         },
         {
-            "wafer_id":"W1-29",
+            "wafer_id":"W1-35",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":220,
+            "end_time":240
+        },
+        {
+            "wafer_id":"W1-36",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":110,
+            "end_time":120
+        },
+        {
+            "wafer_id":"W2-12",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":110,
+            "end_time":120
+        },
+        {
+            "wafer_id":"W1-37",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":180,
+            "end_time":195
+        },
+        {
+            "wafer_id":"W1-38",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":120,
+            "end_time":130
+        },
+        {
+            "wafer_id":"W1-39",
             "step":"S2",
             "machine":"M2",
             "start_time":240,
             "end_time":260
         },
         {
-            "wafer_id":"W1-30",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":198,
-            "end_time":208
+            "wafer_id":"W1-40",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":195,
+            "end_time":210
         },
         {
-            "wafer_id":"W2-10",
+            "wafer_id":"W2-13",
             "step":"S4",
             "machine":"M4",
-            "start_time":230,
+            "start_time":120,
+            "end_time":130
+        },
+        {
+            "wafer_id":"W1-41",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":260,
+            "end_time":280
+        },
+        {
+            "wafer_id":"W1-42",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":130,
+            "end_time":140
+        },
+        {
+            "wafer_id":"W2-14",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":130,
+            "end_time":140
+        },
+        {
+            "wafer_id":"W1-43",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":210,
+            "end_time":225
+        },
+        {
+            "wafer_id":"W1-44",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":140,
+            "end_time":150
+        },
+        {
+            "wafer_id":"W1-45",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":280,
+            "end_time":300
+        },
+        {
+            "wafer_id":"W1-46",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":225,
             "end_time":240
         },
         {
-            "wafer_id":"W1-31",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":190,
-            "end_time":205
-        },
-        {
-            "wafer_id":"W1-32",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":235,
-            "end_time":245
-        },
-        {
-            "wafer_id":"W1-33",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":275,
-            "end_time":295
-        },
-        {
-            "wafer_id":"W1-34",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":215,
-            "end_time":230
-        },
-        {
-            "wafer_id":"W2-11",
+            "wafer_id":"W2-15",
             "step":"S4",
             "machine":"M4",
-            "start_time":268,
-            "end_time":278
+            "start_time":140,
+            "end_time":150
         },
         {
-            "wafer_id":"W1-35",
+            "wafer_id":"W1-47",
             "step":"S2",
             "machine":"M2",
-            "start_time":310,
-            "end_time":330
+            "start_time":300,
+            "end_time":320
         },
         {
-            "wafer_id":"W1-36",
+            "wafer_id":"W1-48",
             "step":"S3",
             "machine":"M3",
-            "start_time":272,
-            "end_time":282
+            "start_time":150,
+            "end_time":160
         },
         {
-            "wafer_id":"W2-12",
+            "wafer_id":"W2-16",
             "step":"S4",
             "machine":"M4",
-            "start_time":306,
-            "end_time":316
+            "start_time":150,
+            "end_time":160
         },
         {
-            "wafer_id":"W1-37",
+            "wafer_id":"W1-49",
             "step":"S1",
             "machine":"M1",
             "start_time":240,
             "end_time":255
         },
         {
-            "wafer_id":"W1-38",
+            "wafer_id":"W1-50",
             "step":"S3",
             "machine":"M3",
-            "start_time":309,
-            "end_time":319
+            "start_time":160,
+            "end_time":170
         },
         {
-            "wafer_id":"W1-39",
+            "wafer_id":"W1-51",
             "step":"S2",
             "machine":"M2",
-            "start_time":345,
-            "end_time":365
+            "start_time":320,
+            "end_time":340
         },
         {
-            "wafer_id":"W1-40",
+            "wafer_id":"W1-52",
             "step":"S1",
             "machine":"M1",
-            "start_time":265,
-            "end_time":280
+            "start_time":255,
+            "end_time":270
         },
         {
-            "wafer_id":"W2-13",
+            "wafer_id":"W2-17",
             "step":"S4",
             "machine":"M4",
-            "start_time":344,
-            "end_time":354
+            "start_time":160,
+            "end_time":170
         },
         {
-            "wafer_id":"W1-41",
+            "wafer_id":"W1-53",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":340,
+            "end_time":360
+        },
+        {
+            "wafer_id":"W1-54",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":170,
+            "end_time":180
+        },
+        {
+            "wafer_id":"W2-18",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":170,
+            "end_time":180
+        },
+        {
+            "wafer_id":"W1-55",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":270,
+            "end_time":285
+        },
+        {
+            "wafer_id":"W1-56",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":180,
+            "end_time":190
+        },
+        {
+            "wafer_id":"W1-57",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":360,
+            "end_time":380
+        },
+        {
+            "wafer_id":"W1-58",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":285,
+            "end_time":300
+        },
+        {
+            "wafer_id":"W2-19",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":180,
+            "end_time":190
+        },
+        {
+            "wafer_id":"W1-59",
             "step":"S2",
             "machine":"M2",
             "start_time":380,
             "end_time":400
         },
         {
-            "wafer_id":"W1-42",
+            "wafer_id":"W1-60",
             "step":"S3",
             "machine":"M3",
-            "start_time":346,
-            "end_time":356
+            "start_time":190,
+            "end_time":200
         },
         {
-            "wafer_id":"W2-14",
+            "wafer_id":"W2-20",
             "step":"S4",
             "machine":"M4",
-            "start_time":382,
-            "end_time":392
+            "start_time":190,
+            "end_time":200
         },
         {
-            "wafer_id":"W1-43",
+            "wafer_id":"W1-61",
             "step":"S1",
             "machine":"M1",
-            "start_time":290,
-            "end_time":305
+            "start_time":300,
+            "end_time":315
         },
         {
-            "wafer_id":"W1-44",
+            "wafer_id":"W1-62",
             "step":"S3",
             "machine":"M3",
-            "start_time":383,
-            "end_time":393
+            "start_time":200,
+            "end_time":210
         },
         {
-            "wafer_id":"W1-45",
+            "wafer_id":"W1-63",
             "step":"S2",
             "machine":"M2",
-            "start_time":415,
-            "end_time":435
+            "start_time":400,
+            "end_time":420
         },
         {
-            "wafer_id":"W1-46",
+            "wafer_id":"W1-64",
             "step":"S1",
             "machine":"M1",
             "start_time":315,
             "end_time":330
         },
         {
-            "wafer_id":"W2-15",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":420,
-            "end_time":430
-        },
-        {
-            "wafer_id":"W1-47",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":450,
-            "end_time":470
-        },
-        {
-            "wafer_id":"W1-48",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":420,
-            "end_time":430
-        },
-        {
-            "wafer_id":"W2-16",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":458,
-            "end_time":468
-        },
-        {
-            "wafer_id":"W1-49",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":340,
-            "end_time":355
-        },
-        {
-            "wafer_id":"W1-50",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":457,
-            "end_time":467
-        },
-        {
-            "wafer_id":"W1-51",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":485,
-            "end_time":505
-        },
-        {
-            "wafer_id":"W1-52",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":365,
-            "end_time":380
-        },
-        {
-            "wafer_id":"W2-17",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":496,
-            "end_time":506
-        },
-        {
-            "wafer_id":"W1-53",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":520,
-            "end_time":540
-        },
-        {
-            "wafer_id":"W1-54",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":494,
-            "end_time":504
-        },
-        {
-            "wafer_id":"W2-18",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":534,
-            "end_time":544
-        },
-        {
-            "wafer_id":"W1-55",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":390,
-            "end_time":405
-        },
-        {
-            "wafer_id":"W1-56",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":531,
-            "end_time":541
-        },
-        {
-            "wafer_id":"W1-57",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":555,
-            "end_time":575
-        },
-        {
-            "wafer_id":"W1-58",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":415,
-            "end_time":430
-        },
-        {
-            "wafer_id":"W2-19",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":572,
-            "end_time":582
-        },
-        {
-            "wafer_id":"W1-59",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":590,
-            "end_time":610
-        },
-        {
-            "wafer_id":"W1-60",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":568,
-            "end_time":578
-        },
-        {
-            "wafer_id":"W2-20",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":610,
-            "end_time":620
-        },
-        {
-            "wafer_id":"W1-61",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":440,
-            "end_time":455
-        },
-        {
-            "wafer_id":"W1-62",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":605,
-            "end_time":615
-        },
-        {
-            "wafer_id":"W1-63",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":625,
-            "end_time":645
-        },
-        {
-            "wafer_id":"W1-64",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":465,
-            "end_time":480
-        },
-        {
             "wafer_id":"W2-21",
             "step":"S4",
             "machine":"M4",
-            "start_time":648,
-            "end_time":658
+            "start_time":200,
+            "end_time":210
         },
         {
             "wafer_id":"W1-65",
             "step":"S2",
             "machine":"M2",
-            "start_time":660,
-            "end_time":680
+            "start_time":420,
+            "end_time":440
         },
         {
             "wafer_id":"W1-66",
             "step":"S3",
             "machine":"M3",
-            "start_time":642,
-            "end_time":652
+            "start_time":210,
+            "end_time":220
         },
         {
             "wafer_id":"W2-22",
             "step":"S4",
             "machine":"M4",
-            "start_time":686,
-            "end_time":696
+            "start_time":210,
+            "end_time":220
         },
         {
             "wafer_id":"W1-67",
             "step":"S1",
             "machine":"M1",
-            "start_time":490,
-            "end_time":505
+            "start_time":330,
+            "end_time":345
         },
         {
             "wafer_id":"W1-68",
             "step":"S3",
             "machine":"M3",
-            "start_time":679,
-            "end_time":689
+            "start_time":220,
+            "end_time":230
         },
         {
             "wafer_id":"W1-69",
             "step":"S2",
             "machine":"M2",
-            "start_time":695,
-            "end_time":715
+            "start_time":440,
+            "end_time":460
         },
         {
             "wafer_id":"W1-70",
             "step":"S1",
             "machine":"M1",
-            "start_time":515,
-            "end_time":530
+            "start_time":345,
+            "end_time":360
         },
         {
             "wafer_id":"W2-23",
             "step":"S4",
             "machine":"M4",
-            "start_time":724,
-            "end_time":734
+            "start_time":220,
+            "end_time":230
         },
         {
             "wafer_id":"W2-24",
             "step":"S2",
             "machine":"M2",
-            "start_time":730,
-            "end_time":745
+            "start_time":460,
+            "end_time":475
         },
         {
             "wafer_id":"W1-1",
             "step":"S3",
             "machine":"M3",
-            "start_time":716,
-            "end_time":726
+            "start_time":230,
+            "end_time":240
         },
         {
             "wafer_id":"W2-25",
             "step":"S4",
             "machine":"M4",
-            "start_time":762,
-            "end_time":772
+            "start_time":230,
+            "end_time":240
         },
         {
             "wafer_id":"W2-26",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":360,
+            "end_time":380
+        },
+        {
+            "wafer_id":"W1-3",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":240,
+            "end_time":250
+        },
+        {
+            "wafer_id":"W2-27",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":475,
+            "end_time":490
+        },
+        {
+            "wafer_id":"W2-28",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":380,
+            "end_time":400
+        },
+        {
+            "wafer_id":"W2-29",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":240,
+            "end_time":250
+        },
+        {
+            "wafer_id":"W2-30",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":490,
+            "end_time":505
+        },
+        {
+            "wafer_id":"W1-4",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":250,
+            "end_time":260
+        },
+        {
+            "wafer_id":"W2-31",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":250,
+            "end_time":260
+        },
+        {
+            "wafer_id":"W2-32",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":400,
+            "end_time":420
+        },
+        {
+            "wafer_id":"W1-5",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":260,
+            "end_time":270
+        },
+        {
+            "wafer_id":"W2-33",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":505,
+            "end_time":520
+        },
+        {
+            "wafer_id":"W2-34",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":420,
+            "end_time":440
+        },
+        {
+            "wafer_id":"W2-35",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":260,
+            "end_time":270
+        },
+        {
+            "wafer_id":"W2-36",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":520,
+            "end_time":535
+        },
+        {
+            "wafer_id":"W1-7",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":270,
+            "end_time":280
+        },
+        {
+            "wafer_id":"W2-37",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":270,
+            "end_time":280
+        },
+        {
+            "wafer_id":"W2-38",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":440,
+            "end_time":460
+        },
+        {
+            "wafer_id":"W1-9",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":280,
+            "end_time":290
+        },
+        {
+            "wafer_id":"W2-39",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":535,
+            "end_time":550
+        },
+        {
+            "wafer_id":"W2-40",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":460,
+            "end_time":480
+        },
+        {
+            "wafer_id":"W2-41",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":280,
+            "end_time":290
+        },
+        {
+            "wafer_id":"W2-42",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":550,
+            "end_time":565
+        },
+        {
+            "wafer_id":"W1-10",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":290,
+            "end_time":300
+        },
+        {
+            "wafer_id":"W2-43",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":290,
+            "end_time":300
+        },
+        {
+            "wafer_id":"W2-44",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":480,
+            "end_time":500
+        },
+        {
+            "wafer_id":"W1-11",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":300,
+            "end_time":310
+        },
+        {
+            "wafer_id":"W2-45",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":565,
+            "end_time":580
+        },
+        {
+            "wafer_id":"W2-46",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":500,
+            "end_time":520
+        },
+        {
+            "wafer_id":"W2-47",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":300,
+            "end_time":310
+        },
+        {
+            "wafer_id":"W2-48",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":580,
+            "end_time":595
+        },
+        {
+            "wafer_id":"W1-13",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":310,
+            "end_time":320
+        },
+        {
+            "wafer_id":"W2-49",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":310,
+            "end_time":320
+        },
+        {
+            "wafer_id":"W2-50",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":520,
+            "end_time":540
+        },
+        {
+            "wafer_id":"W1-15",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":320,
+            "end_time":330
+        },
+        {
+            "wafer_id":"W2-51",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":595,
+            "end_time":610
+        },
+        {
+            "wafer_id":"W2-52",
             "step":"S1",
             "machine":"M1",
             "start_time":540,
             "end_time":560
         },
         {
-            "wafer_id":"W1-3",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":753,
-            "end_time":763
+            "wafer_id":"W2-53",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":320,
+            "end_time":330
         },
         {
-            "wafer_id":"W2-27",
+            "wafer_id":"W2-54",
             "step":"S2",
             "machine":"M2",
-            "start_time":760,
-            "end_time":775
+            "start_time":610,
+            "end_time":625
         },
         {
-            "wafer_id":"W2-28",
+            "wafer_id":"W1-16",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":330,
+            "end_time":340
+        },
+        {
+            "wafer_id":"W2-55",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":330,
+            "end_time":340
+        },
+        {
+            "wafer_id":"W2-56",
             "step":"S1",
             "machine":"M1",
-            "start_time":570,
-            "end_time":590
+            "start_time":560,
+            "end_time":580
         },
         {
-            "wafer_id":"W2-29",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":800,
-            "end_time":810
-        },
-        {
-            "wafer_id":"W2-30",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":790,
-            "end_time":805
-        },
-        {
-            "wafer_id":"W1-4",
+            "wafer_id":"W1-17",
             "step":"S3",
             "machine":"M3",
-            "start_time":790,
-            "end_time":800
+            "start_time":340,
+            "end_time":350
         },
         {
-            "wafer_id":"W2-31",
+            "wafer_id":"W2-57",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":625,
+            "end_time":640
+        },
+        {
+            "wafer_id":"W2-58",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":580,
+            "end_time":600
+        },
+        {
+            "wafer_id":"W2-59",
             "step":"S4",
             "machine":"M4",
-            "start_time":838,
-            "end_time":848
+            "start_time":340,
+            "end_time":350
         },
         {
-            "wafer_id":"W2-32",
+            "wafer_id":"W2-60",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":640,
+            "end_time":655
+        },
+        {
+            "wafer_id":"W1-19",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":350,
+            "end_time":360
+        },
+        {
+            "wafer_id":"W2-61",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":350,
+            "end_time":360
+        },
+        {
+            "wafer_id":"W2-62",
             "step":"S1",
             "machine":"M1",
             "start_time":600,
             "end_time":620
         },
         {
-            "wafer_id":"W1-5",
+            "wafer_id":"W1-21",
             "step":"S3",
             "machine":"M3",
-            "start_time":827,
-            "end_time":837
+            "start_time":360,
+            "end_time":370
         },
         {
-            "wafer_id":"W2-33",
+            "wafer_id":"W2-63",
             "step":"S2",
             "machine":"M2",
-            "start_time":820,
-            "end_time":835
+            "start_time":655,
+            "end_time":670
         },
         {
-            "wafer_id":"W2-34",
+            "wafer_id":"W2-64",
             "step":"S1",
             "machine":"M1",
-            "start_time":630,
-            "end_time":650
+            "start_time":620,
+            "end_time":640
         },
         {
-            "wafer_id":"W2-35",
+            "wafer_id":"W2-65",
             "step":"S4",
             "machine":"M4",
-            "start_time":876,
-            "end_time":886
+            "start_time":360,
+            "end_time":370
         },
         {
-            "wafer_id":"W2-36",
+            "wafer_id":"W2-66",
             "step":"S2",
             "machine":"M2",
-            "start_time":850,
-            "end_time":865
+            "start_time":670,
+            "end_time":685
         },
         {
-            "wafer_id":"W1-7",
+            "wafer_id":"W1-22",
             "step":"S3",
             "machine":"M3",
-            "start_time":864,
-            "end_time":874
+            "start_time":370,
+            "end_time":380
         },
         {
-            "wafer_id":"W2-37",
+            "wafer_id":"W2-67",
             "step":"S4",
             "machine":"M4",
-            "start_time":914,
-            "end_time":924
+            "start_time":370,
+            "end_time":380
         },
         {
-            "wafer_id":"W2-38",
+            "wafer_id":"W2-68",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":640,
+            "end_time":660
+        },
+        {
+            "wafer_id":"W1-23",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":380,
+            "end_time":390
+        },
+        {
+            "wafer_id":"W2-69",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":685,
+            "end_time":700
+        },
+        {
+            "wafer_id":"W2-70",
             "step":"S1",
             "machine":"M1",
             "start_time":660,
             "end_time":680
         },
         {
-            "wafer_id":"W1-9",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":901,
-            "end_time":911
+            "wafer_id":"W2-71",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":380,
+            "end_time":390
         },
         {
-            "wafer_id":"W2-39",
+            "wafer_id":"W2-72",
             "step":"S2",
             "machine":"M2",
-            "start_time":880,
-            "end_time":895
+            "start_time":700,
+            "end_time":715
         },
         {
-            "wafer_id":"W2-40",
+            "wafer_id":"W1-25",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":390,
+            "end_time":400
+        },
+        {
+            "wafer_id":"W2-73",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":390,
+            "end_time":400
+        },
+        {
+            "wafer_id":"W2-74",
             "step":"S1",
             "machine":"M1",
-            "start_time":690,
-            "end_time":710
+            "start_time":680,
+            "end_time":700
         },
         {
-            "wafer_id":"W2-41",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":952,
-            "end_time":962
-        },
-        {
-            "wafer_id":"W2-42",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":910,
-            "end_time":925
-        },
-        {
-            "wafer_id":"W1-10",
+            "wafer_id":"W1-27",
             "step":"S3",
             "machine":"M3",
-            "start_time":938,
-            "end_time":948
+            "start_time":400,
+            "end_time":410
         },
         {
-            "wafer_id":"W2-43",
+            "wafer_id":"W2-75",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":715,
+            "end_time":730
+        },
+        {
+            "wafer_id":"W2-76",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":700,
+            "end_time":720
+        },
+        {
+            "wafer_id":"W2-77",
             "step":"S4",
             "machine":"M4",
-            "start_time":990,
-            "end_time":1000
+            "start_time":400,
+            "end_time":410
         },
         {
-            "wafer_id":"W2-44",
+            "wafer_id":"W2-78",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":730,
+            "end_time":745
+        },
+        {
+            "wafer_id":"W1-28",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":410,
+            "end_time":420
+        },
+        {
+            "wafer_id":"W2-79",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":410,
+            "end_time":420
+        },
+        {
+            "wafer_id":"W2-80",
             "step":"S1",
             "machine":"M1",
             "start_time":720,
             "end_time":740
         },
         {
-            "wafer_id":"W1-11",
+            "wafer_id":"W1-29",
             "step":"S3",
             "machine":"M3",
-            "start_time":975,
-            "end_time":985
+            "start_time":420,
+            "end_time":430
         },
         {
-            "wafer_id":"W2-45",
+            "wafer_id":"W1-2",
             "step":"S2",
             "machine":"M2",
-            "start_time":940,
-            "end_time":955
+            "start_time":745,
+            "end_time":765
         },
         {
-            "wafer_id":"W2-46",
+            "wafer_id":"W2-1",
             "step":"S1",
             "machine":"M1",
-            "start_time":750,
-            "end_time":770
+            "start_time":740,
+            "end_time":760
         },
         {
-            "wafer_id":"W2-47",
+            "wafer_id":"W2-24",
             "step":"S4",
             "machine":"M4",
-            "start_time":1028,
-            "end_time":1038
+            "start_time":475,
+            "end_time":485
         },
         {
-            "wafer_id":"W2-48",
+            "wafer_id":"W1-6",
             "step":"S2",
             "machine":"M2",
-            "start_time":970,
-            "end_time":985
+            "start_time":765,
+            "end_time":785
         },
         {
-            "wafer_id":"W1-13",
+            "wafer_id":"W1-31",
             "step":"S3",
             "machine":"M3",
-            "start_time":1012,
-            "end_time":1022
+            "start_time":430,
+            "end_time":440
         },
         {
-            "wafer_id":"W2-49",
+            "wafer_id":"W2-26",
             "step":"S4",
             "machine":"M4",
-            "start_time":1066,
-            "end_time":1076
+            "start_time":485,
+            "end_time":495
         },
         {
-            "wafer_id":"W2-50",
+            "wafer_id":"W2-2",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":760,
+            "end_time":780
+        },
+        {
+            "wafer_id":"W1-33",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":440,
+            "end_time":450
+        },
+        {
+            "wafer_id":"W1-8",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":785,
+            "end_time":805
+        },
+        {
+            "wafer_id":"W2-3",
             "step":"S1",
             "machine":"M1",
             "start_time":780,
             "end_time":800
         },
         {
-            "wafer_id":"W1-15",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":1049,
-            "end_time":1059
+            "wafer_id":"W2-27",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":495,
+            "end_time":505
         },
         {
-            "wafer_id":"W2-51",
+            "wafer_id":"W1-12",
             "step":"S2",
             "machine":"M2",
-            "start_time":1000,
-            "end_time":1015
+            "start_time":805,
+            "end_time":825
         },
         {
-            "wafer_id":"W2-52",
+            "wafer_id":"W1-34",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":450,
+            "end_time":460
+        },
+        {
+            "wafer_id":"W2-28",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":505,
+            "end_time":515
+        },
+        {
+            "wafer_id":"W2-4",
             "step":"S1",
             "machine":"M1",
-            "start_time":810,
-            "end_time":830
+            "start_time":800,
+            "end_time":820
         },
         {
-            "wafer_id":"W2-53",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":1104,
-            "end_time":1114
-        },
-        {
-            "wafer_id":"W2-54",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":1030,
-            "end_time":1045
-        },
-        {
-            "wafer_id":"W1-16",
+            "wafer_id":"W1-35",
             "step":"S3",
             "machine":"M3",
-            "start_time":1086,
-            "end_time":1096
+            "start_time":460,
+            "end_time":470
         },
         {
-            "wafer_id":"W2-55",
+            "wafer_id":"W1-14",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":825,
+            "end_time":845
+        },
+        {
+            "wafer_id":"W2-5",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":820,
+            "end_time":840
+        },
+        {
+            "wafer_id":"W2-30",
             "step":"S4",
             "machine":"M4",
-            "start_time":1142,
-            "end_time":1152
+            "start_time":515,
+            "end_time":525
         },
         {
-            "wafer_id":"W2-56",
+            "wafer_id":"W1-18",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":845,
+            "end_time":865
+        },
+        {
+            "wafer_id":"W1-37",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":470,
+            "end_time":480
+        },
+        {
+            "wafer_id":"W2-32",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":525,
+            "end_time":535
+        },
+        {
+            "wafer_id":"W2-6",
             "step":"S1",
             "machine":"M1",
             "start_time":840,
             "end_time":860
         },
         {
-            "wafer_id":"W1-17",
+            "wafer_id":"W1-39",
             "step":"S3",
             "machine":"M3",
-            "start_time":1123,
-            "end_time":1133
+            "start_time":480,
+            "end_time":490
         },
         {
-            "wafer_id":"W2-57",
+            "wafer_id":"W1-20",
             "step":"S2",
             "machine":"M2",
-            "start_time":1060,
-            "end_time":1075
+            "start_time":865,
+            "end_time":885
         },
         {
-            "wafer_id":"W2-58",
+            "wafer_id":"W2-7",
             "step":"S1",
             "machine":"M1",
-            "start_time":870,
-            "end_time":890
+            "start_time":860,
+            "end_time":880
         },
         {
-            "wafer_id":"W2-59",
+            "wafer_id":"W2-33",
             "step":"S4",
             "machine":"M4",
-            "start_time":1180,
-            "end_time":1190
+            "start_time":535,
+            "end_time":545
         },
         {
-            "wafer_id":"W2-60",
+            "wafer_id":"W1-24",
             "step":"S2",
             "machine":"M2",
-            "start_time":1090,
-            "end_time":1105
+            "start_time":885,
+            "end_time":905
         },
         {
-            "wafer_id":"W1-19",
+            "wafer_id":"W1-40",
             "step":"S3",
             "machine":"M3",
-            "start_time":1160,
-            "end_time":1170
+            "start_time":490,
+            "end_time":500
         },
         {
-            "wafer_id":"W2-61",
+            "wafer_id":"W2-34",
             "step":"S4",
             "machine":"M4",
-            "start_time":1218,
-            "end_time":1228
+            "start_time":545,
+            "end_time":555
         },
         {
-            "wafer_id":"W2-62",
+            "wafer_id":"W2-8",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":880,
+            "end_time":900
+        },
+        {
+            "wafer_id":"W1-41",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":500,
+            "end_time":510
+        },
+        {
+            "wafer_id":"W1-26",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":905,
+            "end_time":925
+        },
+        {
+            "wafer_id":"W2-9",
             "step":"S1",
             "machine":"M1",
             "start_time":900,
             "end_time":920
         },
         {
-            "wafer_id":"W1-21",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":1197,
-            "end_time":1207
+            "wafer_id":"W2-36",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":555,
+            "end_time":565
         },
         {
-            "wafer_id":"W2-63",
+            "wafer_id":"W1-30",
             "step":"S2",
             "machine":"M2",
-            "start_time":1120,
-            "end_time":1135
+            "start_time":925,
+            "end_time":945
         },
         {
-            "wafer_id":"W2-64",
+            "wafer_id":"W1-43",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":510,
+            "end_time":520
+        },
+        {
+            "wafer_id":"W2-38",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":565,
+            "end_time":575
+        },
+        {
+            "wafer_id":"W2-10",
             "step":"S1",
             "machine":"M1",
-            "start_time":930,
-            "end_time":950
+            "start_time":920,
+            "end_time":940
         },
         {
-            "wafer_id":"W2-65",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":1256,
-            "end_time":1266
-        },
-        {
-            "wafer_id":"W2-66",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":1150,
-            "end_time":1165
-        },
-        {
-            "wafer_id":"W1-22",
+            "wafer_id":"W1-45",
             "step":"S3",
             "machine":"M3",
-            "start_time":1234,
-            "end_time":1244
+            "start_time":520,
+            "end_time":530
         },
         {
-            "wafer_id":"W2-67",
+            "wafer_id":"W1-32",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":945,
+            "end_time":965
+        },
+        {
+            "wafer_id":"W2-11",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":940,
+            "end_time":960
+        },
+        {
+            "wafer_id":"W2-39",
             "step":"S4",
             "machine":"M4",
-            "start_time":1294,
-            "end_time":1304
+            "start_time":575,
+            "end_time":585
         },
         {
-            "wafer_id":"W2-68",
+            "wafer_id":"W1-36",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":965,
+            "end_time":985
+        },
+        {
+            "wafer_id":"W1-46",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":530,
+            "end_time":540
+        },
+        {
+            "wafer_id":"W2-40",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":585,
+            "end_time":595
+        },
+        {
+            "wafer_id":"W2-12",
             "step":"S1",
             "machine":"M1",
             "start_time":960,
             "end_time":980
         },
         {
-            "wafer_id":"W1-23",
+            "wafer_id":"W1-47",
             "step":"S3",
             "machine":"M3",
-            "start_time":1271,
-            "end_time":1281
+            "start_time":540,
+            "end_time":550
         },
         {
-            "wafer_id":"W2-69",
+            "wafer_id":"W1-38",
             "step":"S2",
             "machine":"M2",
-            "start_time":1180,
-            "end_time":1195
+            "start_time":985,
+            "end_time":1005
         },
         {
-            "wafer_id":"W2-70",
+            "wafer_id":"W2-13",
             "step":"S1",
             "machine":"M1",
-            "start_time":990,
-            "end_time":1010
+            "start_time":980,
+            "end_time":1000
         },
         {
-            "wafer_id":"W2-71",
+            "wafer_id":"W2-42",
             "step":"S4",
             "machine":"M4",
-            "start_time":1332,
-            "end_time":1342
+            "start_time":595,
+            "end_time":605
         },
         {
-            "wafer_id":"W2-72",
+            "wafer_id":"W1-42",
             "step":"S2",
             "machine":"M2",
-            "start_time":1210,
-            "end_time":1225
+            "start_time":1005,
+            "end_time":1025
         },
         {
-            "wafer_id":"W1-25",
+            "wafer_id":"W1-49",
             "step":"S3",
             "machine":"M3",
-            "start_time":1308,
-            "end_time":1318
+            "start_time":550,
+            "end_time":560
         },
         {
-            "wafer_id":"W2-73",
+            "wafer_id":"W2-44",
             "step":"S4",
             "machine":"M4",
-            "start_time":1370,
-            "end_time":1380
+            "start_time":605,
+            "end_time":615
         },
         {
-            "wafer_id":"W2-74",
+            "wafer_id":"W2-14",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1000,
+            "end_time":1020
+        },
+        {
+            "wafer_id":"W1-51",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":560,
+            "end_time":570
+        },
+        {
+            "wafer_id":"W1-44",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1025,
+            "end_time":1045
+        },
+        {
+            "wafer_id":"W2-15",
             "step":"S1",
             "machine":"M1",
             "start_time":1020,
             "end_time":1040
         },
         {
-            "wafer_id":"W1-27",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":1345,
-            "end_time":1355
+            "wafer_id":"W2-45",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":615,
+            "end_time":625
         },
         {
-            "wafer_id":"W2-75",
+            "wafer_id":"W1-48",
             "step":"S2",
             "machine":"M2",
-            "start_time":1240,
-            "end_time":1255
+            "start_time":1045,
+            "end_time":1065
         },
         {
-            "wafer_id":"W2-76",
+            "wafer_id":"W1-52",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":570,
+            "end_time":580
+        },
+        {
+            "wafer_id":"W2-46",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":625,
+            "end_time":635
+        },
+        {
+            "wafer_id":"W2-16",
             "step":"S1",
             "machine":"M1",
-            "start_time":1050,
-            "end_time":1070
+            "start_time":1040,
+            "end_time":1060
         },
         {
-            "wafer_id":"W2-77",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":1408,
-            "end_time":1418
-        },
-        {
-            "wafer_id":"W2-78",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":1270,
-            "end_time":1285
-        },
-        {
-            "wafer_id":"W1-28",
+            "wafer_id":"W1-53",
             "step":"S3",
             "machine":"M3",
-            "start_time":1382,
-            "end_time":1392
+            "start_time":580,
+            "end_time":590
         },
         {
-            "wafer_id":"W2-79",
+            "wafer_id":"W1-50",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1065,
+            "end_time":1085
+        },
+        {
+            "wafer_id":"W2-17",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1060,
+            "end_time":1080
+        },
+        {
+            "wafer_id":"W2-48",
             "step":"S4",
             "machine":"M4",
-            "start_time":1446,
-            "end_time":1456
+            "start_time":635,
+            "end_time":645
         },
         {
-            "wafer_id":"W2-80",
+            "wafer_id":"W1-54",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1085,
+            "end_time":1105
+        },
+        {
+            "wafer_id":"W1-55",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":590,
+            "end_time":600
+        },
+        {
+            "wafer_id":"W2-50",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":645,
+            "end_time":655
+        },
+        {
+            "wafer_id":"W2-18",
             "step":"S1",
             "machine":"M1",
             "start_time":1080,
             "end_time":1100
         },
         {
-            "wafer_id":"W1-29",
+            "wafer_id":"W1-57",
             "step":"S3",
             "machine":"M3",
-            "start_time":1419,
-            "end_time":1429
+            "start_time":600,
+            "end_time":610
         },
         {
-            "wafer_id":"W1-2",
+            "wafer_id":"W1-56",
             "step":"S2",
             "machine":"M2",
-            "start_time":1300,
-            "end_time":1320
+            "start_time":1105,
+            "end_time":1125
         },
         {
-            "wafer_id":"W2-1",
+            "wafer_id":"W2-19",
             "step":"S1",
             "machine":"M1",
-            "start_time":1110,
-            "end_time":1130
+            "start_time":1100,
+            "end_time":1120
         },
         {
-            "wafer_id":"W2-24",
+            "wafer_id":"W2-51",
             "step":"S4",
             "machine":"M4",
-            "start_time":1484,
-            "end_time":1494
+            "start_time":655,
+            "end_time":665
         },
         {
-            "wafer_id":"W1-6",
+            "wafer_id":"W1-58",
             "step":"S2",
             "machine":"M2",
-            "start_time":1335,
-            "end_time":1355
+            "start_time":1125,
+            "end_time":1145
         },
         {
-            "wafer_id":"W1-31",
+            "wafer_id":"W1-59",
             "step":"S3",
             "machine":"M3",
-            "start_time":1456,
-            "end_time":1466
+            "start_time":610,
+            "end_time":620
         },
         {
-            "wafer_id":"W2-26",
+            "wafer_id":"W2-52",
             "step":"S4",
             "machine":"M4",
-            "start_time":1522,
-            "end_time":1532
+            "start_time":665,
+            "end_time":675
         },
         {
-            "wafer_id":"W2-2",
+            "wafer_id":"W1-60",
             "step":"S1",
             "machine":"M1",
-            "start_time":1140,
+            "start_time":1120,
+            "end_time":1135
+        },
+        {
+            "wafer_id":"W1-61",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":620,
+            "end_time":630
+        },
+        {
+            "wafer_id":"W2-20",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1145,
             "end_time":1160
         },
         {
-            "wafer_id":"W1-33",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":1493,
-            "end_time":1503
+            "wafer_id":"W1-62",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1135,
+            "end_time":1150
         },
         {
-            "wafer_id":"W1-8",
+            "wafer_id":"W2-54",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":675,
+            "end_time":685
+        },
+        {
+            "wafer_id":"W1-64",
             "step":"S2",
             "machine":"M2",
-            "start_time":1370,
-            "end_time":1390
+            "start_time":1160,
+            "end_time":1180
         },
         {
-            "wafer_id":"W2-3",
+            "wafer_id":"W1-63",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":630,
+            "end_time":640
+        },
+        {
+            "wafer_id":"W2-56",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":685,
+            "end_time":695
+        },
+        {
+            "wafer_id":"W2-21",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1150,
+            "end_time":1170
+        },
+        {
+            "wafer_id":"W1-65",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":640,
+            "end_time":650
+        },
+        {
+            "wafer_id":"W1-66",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1180,
+            "end_time":1200
+        },
+        {
+            "wafer_id":"W2-22",
             "step":"S1",
             "machine":"M1",
             "start_time":1170,
             "end_time":1190
         },
         {
-            "wafer_id":"W2-27",
+            "wafer_id":"W2-57",
             "step":"S4",
             "machine":"M4",
-            "start_time":1560,
-            "end_time":1570
+            "start_time":695,
+            "end_time":705
         },
         {
-            "wafer_id":"W1-12",
+            "wafer_id":"W1-67",
             "step":"S2",
             "machine":"M2",
-            "start_time":1405,
-            "end_time":1425
-        },
-        {
-            "wafer_id":"W1-34",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":1530,
-            "end_time":1540
-        },
-        {
-            "wafer_id":"W2-28",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":1598,
-            "end_time":1608
-        },
-        {
-            "wafer_id":"W2-4",
-            "step":"S1",
-            "machine":"M1",
             "start_time":1200,
             "end_time":1220
         },
         {
-            "wafer_id":"W1-35",
+            "wafer_id":"W1-69",
             "step":"S3",
             "machine":"M3",
-            "start_time":1567,
-            "end_time":1577
+            "start_time":650,
+            "end_time":660
         },
         {
-            "wafer_id":"W1-14",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":1440,
-            "end_time":1460
+            "wafer_id":"W2-58",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":705,
+            "end_time":715
         },
         {
-            "wafer_id":"W2-5",
+            "wafer_id":"W1-68",
             "step":"S1",
             "machine":"M1",
-            "start_time":1230,
-            "end_time":1250
+            "start_time":1190,
+            "end_time":1205
         },
         {
-            "wafer_id":"W2-30",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":1636,
-            "end_time":1646
-        },
-        {
-            "wafer_id":"W1-18",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":1475,
-            "end_time":1495
-        },
-        {
-            "wafer_id":"W1-37",
+            "wafer_id":"W1-70",
             "step":"S3",
             "machine":"M3",
-            "start_time":1604,
-            "end_time":1614
+            "start_time":660,
+            "end_time":670
         },
         {
-            "wafer_id":"W2-32",
+            "wafer_id":"W2-23",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1220,
+            "end_time":1235
+        },
+        {
+            "wafer_id":"W2-25",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1205,
+            "end_time":1225
+        },
+        {
+            "wafer_id":"W2-60",
             "step":"S4",
             "machine":"M4",
-            "start_time":1674,
-            "end_time":1684
+            "start_time":715,
+            "end_time":725
         },
         {
-            "wafer_id":"W2-6",
+            "wafer_id":"W1-1",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1235,
+            "end_time":1255
+        },
+        {
+            "wafer_id":"W1-58",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":1145,
+            "end_time":1155
+        },
+        {
+            "wafer_id":"W2-62",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":725,
+            "end_time":735
+        },
+        {
+            "wafer_id":"W1-3",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1225,
+            "end_time":1240
+        },
+        {
+            "wafer_id":"W1-64",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":1180,
+            "end_time":1190
+        },
+        {
+            "wafer_id":"W2-29",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1255,
+            "end_time":1270
+        },
+        {
+            "wafer_id":"W2-31",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1240,
+            "end_time":1260
+        },
+        {
+            "wafer_id":"W2-63",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":735,
+            "end_time":745
+        },
+        {
+            "wafer_id":"W1-4",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1270,
+            "end_time":1290
+        },
+        {
+            "wafer_id":"W1-67",
+            "step":"S3",
+            "machine":"M3",
+            "start_time":1220,
+            "end_time":1230
+        },
+        {
+            "wafer_id":"W2-64",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":745,
+            "end_time":755
+        },
+        {
+            "wafer_id":"W1-5",
             "step":"S1",
             "machine":"M1",
             "start_time":1260,
-            "end_time":1280
+            "end_time":1275
         },
         {
-            "wafer_id":"W1-39",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":1641,
-            "end_time":1651
+            "wafer_id":"W2-66",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":755,
+            "end_time":765
         },
         {
-            "wafer_id":"W1-20",
+            "wafer_id":"W2-35",
             "step":"S2",
             "machine":"M2",
-            "start_time":1510,
-            "end_time":1530
+            "start_time":1290,
+            "end_time":1305
         },
         {
-            "wafer_id":"W2-7",
+            "wafer_id":"W2-37",
             "step":"S1",
             "machine":"M1",
-            "start_time":1290,
+            "start_time":1275,
+            "end_time":1295
+        },
+        {
+            "wafer_id":"W2-68",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":765,
+            "end_time":775
+        },
+        {
+            "wafer_id":"W1-9",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1295,
             "end_time":1310
         },
         {
-            "wafer_id":"W2-33",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":1712,
-            "end_time":1722
-        },
-        {
-            "wafer_id":"W1-24",
+            "wafer_id":"W1-7",
             "step":"S2",
             "machine":"M2",
-            "start_time":1545,
-            "end_time":1565
+            "start_time":1305,
+            "end_time":1325
         },
         {
-            "wafer_id":"W1-40",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":1678,
-            "end_time":1688
-        },
-        {
-            "wafer_id":"W2-34",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":1750,
-            "end_time":1760
-        },
-        {
-            "wafer_id":"W2-8",
+            "wafer_id":"W2-41",
             "step":"S1",
             "machine":"M1",
-            "start_time":1320,
-            "end_time":1340
+            "start_time":1310,
+            "end_time":1330
         },
         {
-            "wafer_id":"W1-41",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":1715,
-            "end_time":1725
+            "wafer_id":"W2-69",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":775,
+            "end_time":785
         },
         {
-            "wafer_id":"W1-26",
+            "wafer_id":"W2-43",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1330,
+            "end_time":1350
+        },
+        {
+            "wafer_id":"W1-10",
             "step":"S2",
             "machine":"M2",
-            "start_time":1580,
-            "end_time":1600
+            "start_time":1325,
+            "end_time":1345
         },
         {
-            "wafer_id":"W2-9",
+            "wafer_id":"W1-11",
             "step":"S1",
             "machine":"M1",
             "start_time":1350,
-            "end_time":1370
+            "end_time":1365
         },
         {
-            "wafer_id":"W2-36",
+            "wafer_id":"W2-70",
             "step":"S4",
             "machine":"M4",
-            "start_time":1788,
-            "end_time":1798
+            "start_time":785,
+            "end_time":795
         },
         {
-            "wafer_id":"W1-30",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":1615,
-            "end_time":1635
-        },
-        {
-            "wafer_id":"W1-43",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":1752,
-            "end_time":1762
-        },
-        {
-            "wafer_id":"W2-38",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":1826,
-            "end_time":1836
-        },
-        {
-            "wafer_id":"W2-10",
+            "wafer_id":"W2-47",
             "step":"S1",
             "machine":"M1",
+            "start_time":1365,
+            "end_time":1385
+        },
+        {
+            "wafer_id":"W1-13",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1345,
+            "end_time":1365
+        },
+        {
+            "wafer_id":"W2-49",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1385,
+            "end_time":1405
+        },
+        {
+            "wafer_id":"W2-72",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":795,
+            "end_time":805
+        },
+        {
+            "wafer_id":"W1-15",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1405,
+            "end_time":1420
+        },
+        {
+            "wafer_id":"W2-53",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1365,
+            "end_time":1380
+        },
+        {
+            "wafer_id":"W2-55",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1420,
+            "end_time":1440
+        },
+        {
+            "wafer_id":"W2-74",
+            "step":"S4",
+            "machine":"M4",
+            "start_time":805,
+            "end_time":815
+        },
+        {
+            "wafer_id":"W1-17",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1440,
+            "end_time":1455
+        },
+        {
+            "wafer_id":"W1-16",
+            "step":"S2",
+            "machine":"M2",
             "start_time":1380,
             "end_time":1400
         },
         {
-            "wafer_id":"W1-45",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":1789,
-            "end_time":1799
-        },
-        {
-            "wafer_id":"W1-32",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":1650,
-            "end_time":1670
-        },
-        {
-            "wafer_id":"W2-11",
+            "wafer_id":"W2-59",
             "step":"S1",
             "machine":"M1",
-            "start_time":1410,
-            "end_time":1430
+            "start_time":1455,
+            "end_time":1475
         },
         {
-            "wafer_id":"W2-39",
+            "wafer_id":"W2-75",
             "step":"S4",
             "machine":"M4",
-            "start_time":1864,
-            "end_time":1874
+            "start_time":815,
+            "end_time":825
         },
         {
-            "wafer_id":"W1-36",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":1685,
-            "end_time":1705
-        },
-        {
-            "wafer_id":"W1-46",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":1826,
-            "end_time":1836
-        },
-        {
-            "wafer_id":"W2-40",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":1902,
-            "end_time":1912
-        },
-        {
-            "wafer_id":"W2-12",
+            "wafer_id":"W2-61",
             "step":"S1",
             "machine":"M1",
-            "start_time":1440,
-            "end_time":1460
+            "start_time":1475,
+            "end_time":1495
         },
         {
-            "wafer_id":"W1-47",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":1863,
-            "end_time":1873
-        },
-        {
-            "wafer_id":"W1-38",
+            "wafer_id":"W1-19",
             "step":"S2",
             "machine":"M2",
-            "start_time":1720,
-            "end_time":1740
+            "start_time":1400,
+            "end_time":1420
         },
         {
-            "wafer_id":"W2-13",
+            "wafer_id":"W1-21",
             "step":"S1",
             "machine":"M1",
-            "start_time":1470,
-            "end_time":1490
+            "start_time":1495,
+            "end_time":1510
         },
         {
-            "wafer_id":"W2-42",
+            "wafer_id":"W2-76",
             "step":"S4",
             "machine":"M4",
-            "start_time":1940,
-            "end_time":1950
+            "start_time":825,
+            "end_time":835
         },
         {
-            "wafer_id":"W1-42",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":1755,
-            "end_time":1775
-        },
-        {
-            "wafer_id":"W1-49",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":1900,
-            "end_time":1910
-        },
-        {
-            "wafer_id":"W2-44",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":1978,
-            "end_time":1988
-        },
-        {
-            "wafer_id":"W2-14",
+            "wafer_id":"W2-65",
             "step":"S1",
             "machine":"M1",
-            "start_time":1500,
-            "end_time":1520
+            "start_time":1510,
+            "end_time":1530
         },
         {
-            "wafer_id":"W1-51",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":1937,
-            "end_time":1947
-        },
-        {
-            "wafer_id":"W1-44",
+            "wafer_id":"W1-22",
             "step":"S2",
             "machine":"M2",
-            "start_time":1790,
-            "end_time":1810
+            "start_time":1420,
+            "end_time":1440
         },
         {
-            "wafer_id":"W2-15",
+            "wafer_id":"W2-67",
             "step":"S1",
             "machine":"M1",
             "start_time":1530,
             "end_time":1550
         },
         {
-            "wafer_id":"W2-45",
+            "wafer_id":"W2-78",
             "step":"S4",
             "machine":"M4",
-            "start_time":2016,
-            "end_time":2026
+            "start_time":835,
+            "end_time":845
         },
         {
-            "wafer_id":"W1-48",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":1825,
-            "end_time":1845
-        },
-        {
-            "wafer_id":"W1-52",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":1974,
-            "end_time":1984
-        },
-        {
-            "wafer_id":"W2-46",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2054,
-            "end_time":2064
-        },
-        {
-            "wafer_id":"W2-16",
+            "wafer_id":"W1-23",
             "step":"S1",
             "machine":"M1",
-            "start_time":1560,
-            "end_time":1580
+            "start_time":1550,
+            "end_time":1565
         },
         {
-            "wafer_id":"W1-53",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":2011,
-            "end_time":2021
-        },
-        {
-            "wafer_id":"W1-50",
+            "wafer_id":"W2-71",
             "step":"S2",
             "machine":"M2",
-            "start_time":1860,
-            "end_time":1880
+            "start_time":1440,
+            "end_time":1455
         },
         {
-            "wafer_id":"W2-17",
+            "wafer_id":"W2-73",
             "step":"S1",
             "machine":"M1",
-            "start_time":1590,
-            "end_time":1610
+            "start_time":1565,
+            "end_time":1585
         },
         {
-            "wafer_id":"W2-48",
+            "wafer_id":"W2-80",
             "step":"S4",
             "machine":"M4",
-            "start_time":2092,
-            "end_time":2102
+            "start_time":845,
+            "end_time":855
         },
         {
-            "wafer_id":"W1-54",
+            "wafer_id":"W1-27",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1585,
+            "end_time":1600
+        },
+        {
+            "wafer_id":"W1-25",
             "step":"S2",
             "machine":"M2",
-            "start_time":1895,
-            "end_time":1915
+            "start_time":1455,
+            "end_time":1475
         },
         {
-            "wafer_id":"W1-55",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":2048,
-            "end_time":2058
+            "wafer_id":"W2-77",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1600,
+            "end_time":1620
         },
         {
-            "wafer_id":"W2-50",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2130,
-            "end_time":2140
+            "wafer_id":"W1-28",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1475,
+            "end_time":1495
         },
         {
-            "wafer_id":"W2-18",
+            "wafer_id":"W2-79",
             "step":"S1",
             "machine":"M1",
             "start_time":1620,
             "end_time":1640
         },
         {
-            "wafer_id":"W1-57",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":2085,
-            "end_time":2095
-        },
-        {
-            "wafer_id":"W1-56",
+            "wafer_id":"W2-1",
             "step":"S2",
             "machine":"M2",
-            "start_time":1930,
-            "end_time":1950
+            "start_time":1495,
+            "end_time":1510
         },
         {
-            "wafer_id":"W2-19",
+            "wafer_id":"W1-29",
             "step":"S1",
             "machine":"M1",
-            "start_time":1650,
+            "start_time":1640,
+            "end_time":1655
+        },
+        {
+            "wafer_id":"W1-31",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1510,
+            "end_time":1530
+        },
+        {
+            "wafer_id":"W1-2",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1655,
             "end_time":1670
         },
         {
-            "wafer_id":"W2-51",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2168,
-            "end_time":2178
-        },
-        {
-            "wafer_id":"W1-58",
+            "wafer_id":"W2-26",
             "step":"S2",
             "machine":"M2",
-            "start_time":1965,
-            "end_time":1985
+            "start_time":1530,
+            "end_time":1545
         },
         {
-            "wafer_id":"W1-59",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":2122,
-            "end_time":2132
-        },
-        {
-            "wafer_id":"W2-52",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2206,
-            "end_time":2216
-        },
-        {
-            "wafer_id":"W1-60",
+            "wafer_id":"W2-24",
             "step":"S1",
             "machine":"M1",
-            "start_time":1680,
-            "end_time":1695
+            "start_time":1670,
+            "end_time":1690
         },
         {
-            "wafer_id":"W1-61",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":2159,
-            "end_time":2169
-        },
-        {
-            "wafer_id":"W2-20",
+            "wafer_id":"W2-2",
             "step":"S2",
             "machine":"M2",
-            "start_time":2000,
-            "end_time":2015
+            "start_time":1545,
+            "end_time":1560
         },
         {
-            "wafer_id":"W1-62",
+            "wafer_id":"W1-6",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1690,
+            "end_time":1705
+        },
+        {
+            "wafer_id":"W2-3",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1560,
+            "end_time":1575
+        },
+        {
+            "wafer_id":"W1-33",
             "step":"S1",
             "machine":"M1",
             "start_time":1705,
             "end_time":1720
         },
         {
-            "wafer_id":"W2-54",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2244,
-            "end_time":2254
-        },
-        {
-            "wafer_id":"W1-64",
+            "wafer_id":"W1-34",
             "step":"S2",
             "machine":"M2",
-            "start_time":2030,
-            "end_time":2050
+            "start_time":1575,
+            "end_time":1595
         },
         {
-            "wafer_id":"W1-63",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":2196,
-            "end_time":2206
-        },
-        {
-            "wafer_id":"W2-56",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2282,
-            "end_time":2292
-        },
-        {
-            "wafer_id":"W2-21",
+            "wafer_id":"W1-8",
             "step":"S1",
             "machine":"M1",
-            "start_time":1730,
-            "end_time":1750
+            "start_time":1720,
+            "end_time":1735
         },
         {
-            "wafer_id":"W1-65",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":2233,
-            "end_time":2243
-        },
-        {
-            "wafer_id":"W1-66",
+            "wafer_id":"W2-28",
             "step":"S2",
             "machine":"M2",
-            "start_time":2065,
-            "end_time":2085
+            "start_time":1595,
+            "end_time":1610
         },
         {
-            "wafer_id":"W2-22",
+            "wafer_id":"W2-27",
             "step":"S1",
             "machine":"M1",
-            "start_time":1760,
-            "end_time":1780
+            "start_time":1735,
+            "end_time":1755
         },
         {
-            "wafer_id":"W2-57",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2320,
-            "end_time":2330
-        },
-        {
-            "wafer_id":"W1-67",
+            "wafer_id":"W2-4",
             "step":"S2",
             "machine":"M2",
-            "start_time":2100,
-            "end_time":2120
+            "start_time":1610,
+            "end_time":1625
         },
         {
-            "wafer_id":"W1-69",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":2270,
-            "end_time":2280
-        },
-        {
-            "wafer_id":"W2-58",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2358,
-            "end_time":2368
-        },
-        {
-            "wafer_id":"W1-68",
+            "wafer_id":"W1-12",
             "step":"S1",
             "machine":"M1",
-            "start_time":1790,
-            "end_time":1805
+            "start_time":1755,
+            "end_time":1770
         },
         {
-            "wafer_id":"W1-70",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":2307,
-            "end_time":2317
-        },
-        {
-            "wafer_id":"W2-23",
+            "wafer_id":"W2-5",
             "step":"S2",
             "machine":"M2",
-            "start_time":2135,
-            "end_time":2150
+            "start_time":1625,
+            "end_time":1640
         },
         {
-            "wafer_id":"W2-25",
+            "wafer_id":"W1-35",
             "step":"S1",
             "machine":"M1",
-            "start_time":1815,
+            "start_time":1770,
+            "end_time":1785
+        },
+        {
+            "wafer_id":"W1-37",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1640,
+            "end_time":1660
+        },
+        {
+            "wafer_id":"W1-14",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1785,
+            "end_time":1800
+        },
+        {
+            "wafer_id":"W2-32",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1660,
+            "end_time":1675
+        },
+        {
+            "wafer_id":"W2-30",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1800,
+            "end_time":1820
+        },
+        {
+            "wafer_id":"W2-6",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1675,
+            "end_time":1690
+        },
+        {
+            "wafer_id":"W1-18",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1820,
             "end_time":1835
         },
         {
-            "wafer_id":"W2-60",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2396,
-            "end_time":2406
-        },
-        {
-            "wafer_id":"W1-1",
+            "wafer_id":"W2-7",
             "step":"S2",
             "machine":"M2",
-            "start_time":2165,
-            "end_time":2185
+            "start_time":1690,
+            "end_time":1705
         },
         {
-            "wafer_id":"W1-58",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":2344,
-            "end_time":2354
-        },
-        {
-            "wafer_id":"W2-62",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2434,
-            "end_time":2444
-        },
-        {
-            "wafer_id":"W1-3",
+            "wafer_id":"W1-39",
             "step":"S1",
             "machine":"M1",
-            "start_time":1845,
-            "end_time":1860
+            "start_time":1835,
+            "end_time":1850
         },
         {
-            "wafer_id":"W1-64",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":2381,
-            "end_time":2391
-        },
-        {
-            "wafer_id":"W2-29",
+            "wafer_id":"W1-40",
             "step":"S2",
             "machine":"M2",
-            "start_time":2200,
-            "end_time":2215
+            "start_time":1705,
+            "end_time":1725
         },
         {
-            "wafer_id":"W2-31",
+            "wafer_id":"W1-20",
             "step":"S1",
             "machine":"M1",
-            "start_time":1870,
-            "end_time":1890
+            "start_time":1850,
+            "end_time":1865
         },
         {
-            "wafer_id":"W2-63",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2472,
-            "end_time":2482
-        },
-        {
-            "wafer_id":"W1-4",
+            "wafer_id":"W2-34",
             "step":"S2",
             "machine":"M2",
-            "start_time":2230,
-            "end_time":2250
+            "start_time":1725,
+            "end_time":1740
         },
         {
-            "wafer_id":"W1-67",
-            "step":"S3",
-            "machine":"M3",
-            "start_time":2418,
-            "end_time":2428
+            "wafer_id":"W2-33",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1865,
+            "end_time":1885
         },
         {
-            "wafer_id":"W2-64",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2510,
-            "end_time":2520
+            "wafer_id":"W2-8",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1740,
+            "end_time":1755
         },
         {
-            "wafer_id":"W1-5",
+            "wafer_id":"W1-24",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1885,
+            "end_time":1900
+        },
+        {
+            "wafer_id":"W2-9",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1755,
+            "end_time":1770
+        },
+        {
+            "wafer_id":"W1-41",
             "step":"S1",
             "machine":"M1",
             "start_time":1900,
             "end_time":1915
         },
         {
-            "wafer_id":"W2-66",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2548,
-            "end_time":2558
-        },
-        {
-            "wafer_id":"W2-35",
+            "wafer_id":"W1-43",
             "step":"S2",
             "machine":"M2",
-            "start_time":2265,
-            "end_time":2280
+            "start_time":1770,
+            "end_time":1790
         },
         {
-            "wafer_id":"W2-37",
+            "wafer_id":"W1-26",
             "step":"S1",
             "machine":"M1",
-            "start_time":1925,
-            "end_time":1945
+            "start_time":1915,
+            "end_time":1930
         },
         {
-            "wafer_id":"W2-68",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2586,
-            "end_time":2596
-        },
-        {
-            "wafer_id":"W1-9",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":1955,
-            "end_time":1970
-        },
-        {
-            "wafer_id":"W1-7",
+            "wafer_id":"W2-38",
             "step":"S2",
             "machine":"M2",
-            "start_time":2295,
-            "end_time":2315
+            "start_time":1790,
+            "end_time":1805
         },
         {
-            "wafer_id":"W2-41",
+            "wafer_id":"W2-36",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1930,
+            "end_time":1950
+        },
+        {
+            "wafer_id":"W2-10",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1805,
+            "end_time":1820
+        },
+        {
+            "wafer_id":"W1-30",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1950,
+            "end_time":1965
+        },
+        {
+            "wafer_id":"W2-11",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1820,
+            "end_time":1835
+        },
+        {
+            "wafer_id":"W1-45",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":1965,
+            "end_time":1980
+        },
+        {
+            "wafer_id":"W1-46",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1835,
+            "end_time":1855
+        },
+        {
+            "wafer_id":"W1-32",
             "step":"S1",
             "machine":"M1",
             "start_time":1980,
-            "end_time":2000
+            "end_time":1995
         },
         {
-            "wafer_id":"W2-69",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2624,
-            "end_time":2634
+            "wafer_id":"W2-40",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1855,
+            "end_time":1870
         },
         {
-            "wafer_id":"W2-43",
+            "wafer_id":"W2-39",
             "step":"S1",
             "machine":"M1",
-            "start_time":2010,
+            "start_time":1995,
+            "end_time":2015
+        },
+        {
+            "wafer_id":"W2-12",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1870,
+            "end_time":1885
+        },
+        {
+            "wafer_id":"W1-36",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2015,
             "end_time":2030
         },
         {
-            "wafer_id":"W1-10",
+            "wafer_id":"W2-13",
             "step":"S2",
             "machine":"M2",
-            "start_time":2330,
-            "end_time":2350
+            "start_time":1885,
+            "end_time":1900
         },
         {
-            "wafer_id":"W1-11",
+            "wafer_id":"W1-47",
             "step":"S1",
             "machine":"M1",
-            "start_time":2040,
-            "end_time":2055
+            "start_time":2030,
+            "end_time":2045
         },
         {
-            "wafer_id":"W2-70",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2662,
-            "end_time":2672
-        },
-        {
-            "wafer_id":"W2-47",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2065,
-            "end_time":2085
-        },
-        {
-            "wafer_id":"W1-13",
+            "wafer_id":"W1-49",
             "step":"S2",
             "machine":"M2",
-            "start_time":2365,
-            "end_time":2385
+            "start_time":1900,
+            "end_time":1920
         },
         {
-            "wafer_id":"W2-49",
+            "wafer_id":"W1-38",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2045,
+            "end_time":2060
+        },
+        {
+            "wafer_id":"W2-44",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1920,
+            "end_time":1935
+        },
+        {
+            "wafer_id":"W2-42",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2060,
+            "end_time":2080
+        },
+        {
+            "wafer_id":"W2-14",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1935,
+            "end_time":1950
+        },
+        {
+            "wafer_id":"W1-42",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2080,
+            "end_time":2095
+        },
+        {
+            "wafer_id":"W2-15",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1950,
+            "end_time":1965
+        },
+        {
+            "wafer_id":"W1-51",
             "step":"S1",
             "machine":"M1",
             "start_time":2095,
-            "end_time":2115
+            "end_time":2110
         },
         {
-            "wafer_id":"W2-72",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2700,
-            "end_time":2710
+            "wafer_id":"W1-52",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1965,
+            "end_time":1985
         },
         {
-            "wafer_id":"W1-15",
+            "wafer_id":"W1-44",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2110,
+            "end_time":2125
+        },
+        {
+            "wafer_id":"W2-46",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":1985,
+            "end_time":2000
+        },
+        {
+            "wafer_id":"W2-45",
             "step":"S1",
             "machine":"M1",
             "start_time":2125,
-            "end_time":2140
+            "end_time":2145
         },
         {
-            "wafer_id":"W2-53",
+            "wafer_id":"W2-16",
             "step":"S2",
             "machine":"M2",
-            "start_time":2400,
-            "end_time":2415
+            "start_time":2000,
+            "end_time":2015
         },
         {
-            "wafer_id":"W2-55",
+            "wafer_id":"W1-48",
             "step":"S1",
             "machine":"M1",
+            "start_time":2145,
+            "end_time":2160
+        },
+        {
+            "wafer_id":"W2-17",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":2015,
+            "end_time":2030
+        },
+        {
+            "wafer_id":"W1-53",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2160,
+            "end_time":2175
+        },
+        {
+            "wafer_id":"W1-55",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":2030,
+            "end_time":2050
+        },
+        {
+            "wafer_id":"W1-50",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2175,
+            "end_time":2190
+        },
+        {
+            "wafer_id":"W2-50",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":2050,
+            "end_time":2065
+        },
+        {
+            "wafer_id":"W2-48",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2190,
+            "end_time":2210
+        },
+        {
+            "wafer_id":"W2-18",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":2065,
+            "end_time":2080
+        },
+        {
+            "wafer_id":"W1-54",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2210,
+            "end_time":2225
+        },
+        {
+            "wafer_id":"W2-19",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":2080,
+            "end_time":2095
+        },
+        {
+            "wafer_id":"W1-57",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2225,
+            "end_time":2240
+        },
+        {
+            "wafer_id":"W2-52",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":2095,
+            "end_time":2110
+        },
+        {
+            "wafer_id":"W1-56",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2240,
+            "end_time":2255
+        },
+        {
+            "wafer_id":"W1-60",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":2110,
+            "end_time":2130
+        },
+        {
+            "wafer_id":"W2-51",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2255,
+            "end_time":2275
+        },
+        {
+            "wafer_id":"W1-61",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":2130,
+            "end_time":2150
+        },
+        {
+            "wafer_id":"W1-59",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2275,
+            "end_time":2290
+        },
+        {
+            "wafer_id":"W1-62",
+            "step":"S2",
+            "machine":"M2",
             "start_time":2150,
             "end_time":2170
         },
         {
-            "wafer_id":"W2-74",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2738,
-            "end_time":2748
-        },
-        {
-            "wafer_id":"W1-17",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2180,
-            "end_time":2195
-        },
-        {
-            "wafer_id":"W1-16",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":2430,
-            "end_time":2450
-        },
-        {
-            "wafer_id":"W2-59",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2205,
-            "end_time":2225
-        },
-        {
-            "wafer_id":"W2-75",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2776,
-            "end_time":2786
-        },
-        {
-            "wafer_id":"W2-61",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2235,
-            "end_time":2255
-        },
-        {
-            "wafer_id":"W1-19",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":2465,
-            "end_time":2485
-        },
-        {
-            "wafer_id":"W1-21",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2265,
-            "end_time":2280
-        },
-        {
-            "wafer_id":"W2-76",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2814,
-            "end_time":2824
-        },
-        {
-            "wafer_id":"W2-65",
+            "wafer_id":"W2-20",
             "step":"S1",
             "machine":"M1",
             "start_time":2290,
             "end_time":2310
         },
         {
-            "wafer_id":"W1-22",
+            "wafer_id":"W2-56",
             "step":"S2",
             "machine":"M2",
-            "start_time":2500,
-            "end_time":2520
+            "start_time":2170,
+            "end_time":2185
         },
         {
-            "wafer_id":"W2-67",
+            "wafer_id":"W2-54",
             "step":"S1",
             "machine":"M1",
-            "start_time":2320,
-            "end_time":2340
+            "start_time":2310,
+            "end_time":2330
         },
         {
-            "wafer_id":"W2-78",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2852,
-            "end_time":2862
-        },
-        {
-            "wafer_id":"W1-23",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2350,
-            "end_time":2365
-        },
-        {
-            "wafer_id":"W2-71",
+            "wafer_id":"W2-21",
             "step":"S2",
             "machine":"M2",
-            "start_time":2535,
-            "end_time":2550
+            "start_time":2185,
+            "end_time":2200
         },
         {
-            "wafer_id":"W2-73",
+            "wafer_id":"W1-63",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2330,
+            "end_time":2345
+        },
+        {
+            "wafer_id":"W2-22",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":2200,
+            "end_time":2215
+        },
+        {
+            "wafer_id":"W1-65",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2345,
+            "end_time":2360
+        },
+        {
+            "wafer_id":"W2-58",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":2215,
+            "end_time":2230
+        },
+        {
+            "wafer_id":"W1-66",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2360,
+            "end_time":2375
+        },
+        {
+            "wafer_id":"W1-68",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":2230,
+            "end_time":2250
+        },
+        {
+            "wafer_id":"W2-57",
             "step":"S1",
             "machine":"M1",
             "start_time":2375,
             "end_time":2395
         },
         {
-            "wafer_id":"W2-80",
-            "step":"S4",
-            "machine":"M4",
-            "start_time":2890,
-            "end_time":2900
-        },
-        {
-            "wafer_id":"W1-27",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2405,
-            "end_time":2420
-        },
-        {
-            "wafer_id":"W1-25",
+            "wafer_id":"W1-70",
             "step":"S2",
             "machine":"M2",
-            "start_time":2565,
-            "end_time":2585
+            "start_time":2250,
+            "end_time":2270
         },
         {
-            "wafer_id":"W2-77",
+            "wafer_id":"W1-69",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2395,
+            "end_time":2410
+        },
+        {
+            "wafer_id":"W2-25",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":2270,
+            "end_time":2285
+        },
+        {
+            "wafer_id":"W2-23",
+            "step":"S1",
+            "machine":"M1",
+            "start_time":2410,
+            "end_time":2430
+        },
+        {
+            "wafer_id":"W2-62",
+            "step":"S2",
+            "machine":"M2",
+            "start_time":2285,
+            "end_time":2300
+        },
+        {
+            "wafer_id":"W2-60",
             "step":"S1",
             "machine":"M1",
             "start_time":2430,
             "end_time":2450
         },
         {
-            "wafer_id":"W1-28",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":2600,
-            "end_time":2620
-        },
-        {
-            "wafer_id":"W2-79",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2460,
-            "end_time":2480
-        },
-        {
-            "wafer_id":"W2-1",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":2635,
-            "end_time":2650
-        },
-        {
-            "wafer_id":"W1-29",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2490,
-            "end_time":2505
-        },
-        {
-            "wafer_id":"W1-31",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":2665,
-            "end_time":2685
-        },
-        {
-            "wafer_id":"W1-2",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2515,
-            "end_time":2530
-        },
-        {
-            "wafer_id":"W2-26",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":2700,
-            "end_time":2715
-        },
-        {
-            "wafer_id":"W2-24",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2540,
-            "end_time":2560
-        },
-        {
-            "wafer_id":"W2-2",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":2730,
-            "end_time":2745
-        },
-        {
-            "wafer_id":"W1-6",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2570,
-            "end_time":2585
-        },
-        {
-            "wafer_id":"W2-3",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":2760,
-            "end_time":2775
-        },
-        {
-            "wafer_id":"W1-33",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2595,
-            "end_time":2610
-        },
-        {
-            "wafer_id":"W1-34",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":2790,
-            "end_time":2810
-        },
-        {
-            "wafer_id":"W1-8",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2620,
-            "end_time":2635
-        },
-        {
-            "wafer_id":"W2-28",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":2825,
-            "end_time":2840
-        },
-        {
-            "wafer_id":"W2-27",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2645,
-            "end_time":2665
-        },
-        {
-            "wafer_id":"W2-4",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":2855,
-            "end_time":2870
-        },
-        {
-            "wafer_id":"W1-12",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2675,
-            "end_time":2690
-        },
-        {
-            "wafer_id":"W2-5",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":2885,
-            "end_time":2900
-        },
-        {
-            "wafer_id":"W1-35",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2700,
-            "end_time":2715
-        },
-        {
-            "wafer_id":"W1-37",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":2915,
-            "end_time":2935
-        },
-        {
-            "wafer_id":"W1-14",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2725,
-            "end_time":2740
-        },
-        {
-            "wafer_id":"W2-32",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":2950,
-            "end_time":2965
-        },
-        {
-            "wafer_id":"W2-30",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2750,
-            "end_time":2770
-        },
-        {
-            "wafer_id":"W2-6",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":2980,
-            "end_time":2995
-        },
-        {
-            "wafer_id":"W1-18",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2780,
-            "end_time":2795
-        },
-        {
-            "wafer_id":"W2-7",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3010,
-            "end_time":3025
-        },
-        {
-            "wafer_id":"W1-39",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2805,
-            "end_time":2820
-        },
-        {
-            "wafer_id":"W1-40",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3040,
-            "end_time":3060
-        },
-        {
-            "wafer_id":"W1-20",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2830,
-            "end_time":2845
-        },
-        {
-            "wafer_id":"W2-34",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3075,
-            "end_time":3090
-        },
-        {
-            "wafer_id":"W2-33",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2855,
-            "end_time":2875
-        },
-        {
-            "wafer_id":"W2-8",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3105,
-            "end_time":3120
-        },
-        {
-            "wafer_id":"W1-24",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2885,
-            "end_time":2900
-        },
-        {
-            "wafer_id":"W2-9",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3135,
-            "end_time":3150
-        },
-        {
-            "wafer_id":"W1-41",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2910,
-            "end_time":2925
-        },
-        {
-            "wafer_id":"W1-43",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3165,
-            "end_time":3185
-        },
-        {
-            "wafer_id":"W1-26",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2935,
-            "end_time":2950
-        },
-        {
-            "wafer_id":"W2-38",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3200,
-            "end_time":3215
-        },
-        {
-            "wafer_id":"W2-36",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2960,
-            "end_time":2980
-        },
-        {
-            "wafer_id":"W2-10",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3230,
-            "end_time":3245
-        },
-        {
-            "wafer_id":"W1-30",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":2990,
-            "end_time":3005
-        },
-        {
-            "wafer_id":"W2-11",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3260,
-            "end_time":3275
-        },
-        {
-            "wafer_id":"W1-45",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3015,
-            "end_time":3030
-        },
-        {
-            "wafer_id":"W1-46",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3290,
-            "end_time":3310
-        },
-        {
-            "wafer_id":"W1-32",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3040,
-            "end_time":3055
-        },
-        {
-            "wafer_id":"W2-40",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3325,
-            "end_time":3340
-        },
-        {
-            "wafer_id":"W2-39",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3065,
-            "end_time":3085
-        },
-        {
-            "wafer_id":"W2-12",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3355,
-            "end_time":3370
-        },
-        {
-            "wafer_id":"W1-36",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3095,
-            "end_time":3110
-        },
-        {
-            "wafer_id":"W2-13",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3385,
-            "end_time":3400
-        },
-        {
-            "wafer_id":"W1-47",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3120,
-            "end_time":3135
-        },
-        {
-            "wafer_id":"W1-49",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3415,
-            "end_time":3435
-        },
-        {
-            "wafer_id":"W1-38",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3145,
-            "end_time":3160
-        },
-        {
-            "wafer_id":"W2-44",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3450,
-            "end_time":3465
-        },
-        {
-            "wafer_id":"W2-42",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3170,
-            "end_time":3190
-        },
-        {
-            "wafer_id":"W2-14",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3480,
-            "end_time":3495
-        },
-        {
-            "wafer_id":"W1-42",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3200,
-            "end_time":3215
-        },
-        {
-            "wafer_id":"W2-15",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3510,
-            "end_time":3525
-        },
-        {
-            "wafer_id":"W1-51",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3225,
-            "end_time":3240
-        },
-        {
-            "wafer_id":"W1-52",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3540,
-            "end_time":3560
-        },
-        {
-            "wafer_id":"W1-44",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3250,
-            "end_time":3265
-        },
-        {
-            "wafer_id":"W2-46",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3575,
-            "end_time":3590
-        },
-        {
-            "wafer_id":"W2-45",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3275,
-            "end_time":3295
-        },
-        {
-            "wafer_id":"W2-16",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3605,
-            "end_time":3620
-        },
-        {
-            "wafer_id":"W1-48",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3305,
-            "end_time":3320
-        },
-        {
-            "wafer_id":"W2-17",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3635,
-            "end_time":3650
-        },
-        {
-            "wafer_id":"W1-53",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3330,
-            "end_time":3345
-        },
-        {
-            "wafer_id":"W1-55",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3665,
-            "end_time":3685
-        },
-        {
-            "wafer_id":"W1-50",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3355,
-            "end_time":3370
-        },
-        {
-            "wafer_id":"W2-50",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3700,
-            "end_time":3715
-        },
-        {
-            "wafer_id":"W2-48",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3380,
-            "end_time":3400
-        },
-        {
-            "wafer_id":"W2-18",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3730,
-            "end_time":3745
-        },
-        {
-            "wafer_id":"W1-54",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3410,
-            "end_time":3425
-        },
-        {
-            "wafer_id":"W2-19",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3760,
-            "end_time":3775
-        },
-        {
-            "wafer_id":"W1-57",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3435,
-            "end_time":3450
-        },
-        {
-            "wafer_id":"W2-52",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3790,
-            "end_time":3805
-        },
-        {
-            "wafer_id":"W1-56",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3460,
-            "end_time":3475
-        },
-        {
-            "wafer_id":"W1-60",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3820,
-            "end_time":3840
-        },
-        {
-            "wafer_id":"W2-51",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3485,
-            "end_time":3505
-        },
-        {
-            "wafer_id":"W1-61",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3855,
-            "end_time":3875
-        },
-        {
-            "wafer_id":"W1-59",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3515,
-            "end_time":3530
-        },
-        {
-            "wafer_id":"W1-62",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3890,
-            "end_time":3910
-        },
-        {
-            "wafer_id":"W2-20",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3540,
-            "end_time":3560
-        },
-        {
-            "wafer_id":"W2-56",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3925,
-            "end_time":3940
-        },
-        {
-            "wafer_id":"W2-54",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3570,
-            "end_time":3590
-        },
-        {
-            "wafer_id":"W2-21",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3955,
-            "end_time":3970
-        },
-        {
-            "wafer_id":"W1-63",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3600,
-            "end_time":3615
-        },
-        {
-            "wafer_id":"W2-22",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":3985,
-            "end_time":4000
-        },
-        {
-            "wafer_id":"W1-65",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3625,
-            "end_time":3640
-        },
-        {
-            "wafer_id":"W2-58",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":4015,
-            "end_time":4030
-        },
-        {
-            "wafer_id":"W1-66",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3650,
-            "end_time":3665
-        },
-        {
-            "wafer_id":"W1-68",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":4045,
-            "end_time":4065
-        },
-        {
-            "wafer_id":"W2-57",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3675,
-            "end_time":3695
-        },
-        {
-            "wafer_id":"W1-70",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":4080,
-            "end_time":4100
-        },
-        {
-            "wafer_id":"W1-69",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3705,
-            "end_time":3720
-        },
-        {
-            "wafer_id":"W2-25",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":4115,
-            "end_time":4130
-        },
-        {
-            "wafer_id":"W2-23",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3730,
-            "end_time":3750
-        },
-        {
-            "wafer_id":"W2-62",
-            "step":"S2",
-            "machine":"M2",
-            "start_time":4145,
-            "end_time":4160
-        },
-        {
-            "wafer_id":"W2-60",
-            "step":"S1",
-            "machine":"M1",
-            "start_time":3760,
-            "end_time":3780
-        },
-        {
             "wafer_id":"W2-31",
             "step":"S2",
             "machine":"M2",
-            "start_time":4175,
-            "end_time":4190
+            "start_time":2300,
+            "end_time":2315
         },
         {
             "wafer_id":"W2-29",
             "step":"S1",
             "machine":"M1",
-            "start_time":3790,
-            "end_time":3810
+            "start_time":2450,
+            "end_time":2470
         },
         {
             "wafer_id":"W2-64",
             "step":"S2",
             "machine":"M2",
-            "start_time":4205,
-            "end_time":4220
+            "start_time":2315,
+            "end_time":2330
         },
         {
             "wafer_id":"W2-63",
             "step":"S1",
             "machine":"M1",
-            "start_time":3820,
-            "end_time":3840
+            "start_time":2470,
+            "end_time":2490
         },
         {
             "wafer_id":"W2-37",
             "step":"S2",
             "machine":"M2",
-            "start_time":4235,
-            "end_time":4250
+            "start_time":2330,
+            "end_time":2345
         },
         {
             "wafer_id":"W2-66",
             "step":"S1",
             "machine":"M1",
-            "start_time":3850,
-            "end_time":3870
+            "start_time":2490,
+            "end_time":2510
         },
         {
             "wafer_id":"W2-68",
             "step":"S2",
             "machine":"M2",
-            "start_time":4265,
-            "end_time":4280
+            "start_time":2345,
+            "end_time":2360
         },
         {
             "wafer_id":"W2-35",
             "step":"S1",
             "machine":"M1",
-            "start_time":3880,
-            "end_time":3900
+            "start_time":2510,
+            "end_time":2530
         },
         {
             "wafer_id":"W2-41",
             "step":"S2",
             "machine":"M2",
-            "start_time":4295,
-            "end_time":4310
+            "start_time":2360,
+            "end_time":2375
         },
         {
             "wafer_id":"W2-69",
             "step":"S1",
             "machine":"M1",
-            "start_time":3910,
-            "end_time":3930
+            "start_time":2530,
+            "end_time":2550
         },
         {
             "wafer_id":"W2-43",
             "step":"S2",
             "machine":"M2",
-            "start_time":4325,
-            "end_time":4340
+            "start_time":2375,
+            "end_time":2390
         },
         {
             "wafer_id":"W2-72",
             "step":"S1",
             "machine":"M1",
-            "start_time":3940,
-            "end_time":3960
+            "start_time":2550,
+            "end_time":2570
         },
         {
             "wafer_id":"W2-70",
             "step":"S2",
             "machine":"M2",
-            "start_time":4355,
-            "end_time":4370
+            "start_time":2390,
+            "end_time":2405
         },
         {
             "wafer_id":"W2-53",
             "step":"S1",
             "machine":"M1",
-            "start_time":3970,
-            "end_time":3990
+            "start_time":2570,
+            "end_time":2590
         },
         {
             "wafer_id":"W2-47",
             "step":"S2",
             "machine":"M2",
-            "start_time":4385,
-            "end_time":4400
+            "start_time":2405,
+            "end_time":2420
         },
         {
             "wafer_id":"W2-75",
             "step":"S1",
             "machine":"M1",
-            "start_time":4000,
-            "end_time":4020
+            "start_time":2590,
+            "end_time":2610
         },
         {
             "wafer_id":"W2-49",
             "step":"S2",
             "machine":"M2",
-            "start_time":4415,
-            "end_time":4430
+            "start_time":2420,
+            "end_time":2435
         },
         {
             "wafer_id":"W2-78",
             "step":"S1",
             "machine":"M1",
-            "start_time":4030,
-            "end_time":4050
+            "start_time":2610,
+            "end_time":2630
         },
         {
             "wafer_id":"W2-55",
             "step":"S2",
             "machine":"M2",
-            "start_time":4445,
-            "end_time":4460
+            "start_time":2435,
+            "end_time":2450
         },
         {
             "wafer_id":"W2-71",
             "step":"S1",
             "machine":"M1",
-            "start_time":4060,
-            "end_time":4080
+            "start_time":2630,
+            "end_time":2650
         },
         {
             "wafer_id":"W2-74",
             "step":"S2",
             "machine":"M2",
-            "start_time":4475,
-            "end_time":4490
+            "start_time":2450,
+            "end_time":2465
         },
         {
             "wafer_id":"W2-59",
             "step":"S2",
             "machine":"M2",
-            "start_time":4505,
-            "end_time":4520
+            "start_time":2465,
+            "end_time":2480
         },
         {
             "wafer_id":"W2-61",
             "step":"S2",
             "machine":"M2",
-            "start_time":4535,
-            "end_time":4550
+            "start_time":2480,
+            "end_time":2495
         },
         {
             "wafer_id":"W2-76",
             "step":"S2",
             "machine":"M2",
-            "start_time":4565,
-            "end_time":4580
+            "start_time":2495,
+            "end_time":2510
         },
         {
             "wafer_id":"W2-65",
             "step":"S2",
             "machine":"M2",
-            "start_time":4595,
-            "end_time":4610
+            "start_time":2510,
+            "end_time":2525
         },
         {
             "wafer_id":"W2-67",
             "step":"S2",
             "machine":"M2",
-            "start_time":4625,
-            "end_time":4640
+            "start_time":2525,
+            "end_time":2540
         },
         {
             "wafer_id":"W2-73",
             "step":"S2",
             "machine":"M2",
-            "start_time":4655,
-            "end_time":4670
+            "start_time":2540,
+            "end_time":2555
         },
         {
             "wafer_id":"W2-80",
             "step":"S2",
             "machine":"M2",
-            "start_time":4685,
-            "end_time":4700
+            "start_time":2555,
+            "end_time":2570
         },
         {
             "wafer_id":"W2-77",
             "step":"S2",
             "machine":"M2",
-            "start_time":4715,
-            "end_time":4730
+            "start_time":2570,
+            "end_time":2585
         },
         {
             "wafer_id":"W2-79",
             "step":"S2",
             "machine":"M2",
-            "start_time":4745,
-            "end_time":4760
+            "start_time":2585,
+            "end_time":2600
         }
     ]
 }
