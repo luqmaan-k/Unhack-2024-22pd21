@@ -56,11 +56,26 @@ def scheduleWafers(steps,machines,wafers):
 
   while(wafers_unprocessed): # Keeps processing wafers until there are no unprocessed wafers
     print("Processing")
+    # For each available machine find a wafer if possible then allocate
     for idx,available_machine in enumerate(available_machines):
       canAssign , wafer_to_assign = findWafer(available_machine[0],wafers_unprocessed,steps)
-      if canAssign:
-        print("Can assign wafer ",wafer," to ",available_machine)
+      # if canAssign:
+      #   print("Can assign wafer ",wafer," to ",available_machine)
+    
+    # Do i have to do this?
+    # Update the available_machine  list 
+    for idx,available_machine in enumerate(available_machines):
+      break
 
+    # Update the cooldown_machine   list 
+    for idx,available_machine in enumerate(available_machines):
+      # Most prob dont have to do this and directly update it into the available machine list      
+      break
+
+    # Update the processing_machine list
+    for idx,processing_machine in enumerate(processing_machines):
+      # Might or might not have to do this and directly update it into the available machine list
+      break
 
     break
   # print(wafers_unprocessed)
