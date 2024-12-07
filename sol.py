@@ -22,6 +22,16 @@ def checkIfNeedCooldown(machine,steps):
         return True
   # Handle dependencies in other function? step['dependency']
 
+def findWafer(machine,wafers_unprocessed,steps):
+  step_ids = []
+  for step in steps:
+    step_ids.append(step['id'])
+  for idx,wafer in enumerate(wafers_unprocessed):
+    for step_id in step_ids:
+      if(wafer['processing_times'][step_id] > 0) and (step_id == machine['step_id']):
+        return True,wafers_unprocessed.pop(idx)
+  return False,None
+
 def scheduleWafers(steps,machines,wafers):
   schedule = {}
   wafers_unprocessed = []
@@ -46,7 +56,13 @@ def scheduleWafers(steps,machines,wafers):
 
   while(wafers_unprocessed): # Keeps processing wafers until there are no unprocessed wafers
     print("Processing")
-    
+    for idx,available_machine in enumerate(available_machines):
+      canAssign , wafer_to_assign = findWafer(available_machine[0],wafers_unprocessed,steps)
+      if canAssign:
+        print("Can assign wafer ",wafer," to ",available_machine)
+
+
+    break
   # print(wafers_unprocessed)
   return writeSchedulePlan()
 
