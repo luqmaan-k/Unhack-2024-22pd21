@@ -1,16 +1,13 @@
 import json
 import copy
-def writeSchedulePlan():
-  wafers_schedule = []
-  for i in range(1,3):
-    schedule_mapping = {}
-    schedule_mapping['wafer_id'] = "W1"+"-"+ str(i)
-    schedule_mapping['step'] = "S" + str(i)
-    schedule_mapping['machine'] = "M" + str(i)
-    schedule_mapping['start_time'] = 5
-    schedule_mapping['end_time'] = 5
-    wafers_schedule.append(schedule_mapping)
-  return wafers_schedule
+def writeSchedulePlan(wafer_id,step_id,machine_id,start_time,end_time):
+  schedule_mapping = {}
+  schedule_mapping['wafer_id'] = wafer_id
+  schedule_mapping['step'] = step_id
+  schedule_mapping['machine'] = machine_id
+  schedule_mapping['start_time'] = start_time
+  schedule_mapping['end_time'] = end_time
+  return schedule_mapping
 
 # Check whether the machine needs a cooldown
 def checkIfNeedCooldown(machine,steps):
@@ -40,7 +37,7 @@ def machineProcess(processing_machine):
   modified_machine = processing_machine[0]
   available_time   = processing_machine[1]
   modified_wafer   = processing_machine[2]
-
+  start_time = available_time
   machine_stage = modified_machine['step_id']
 
   modified_machine['n'] = modified_machine['n'] - 1
@@ -59,7 +56,9 @@ def machineProcess(processing_machine):
   print("Modified Wafer",modified_wafer)
   print(available_time)
 
-  return modified_machine,available_time,modified_wafer
+  mw_schedule = writeSchedulePlan(modified_wafer['wafer_id'],machine_stage,modified_machine['machine_id'],start_time,available_time)
+
+  return modified_machine,available_time,modified_wafer,mw_schedule
 
 def machineCooldown(cooldown_machine,allmachines):
   # Returns the modified machines after cooldown
@@ -76,7 +75,7 @@ def machineCooldown(cooldown_machine,allmachines):
   return modified_machine,available_time
 
 def scheduleWafers(steps,machines,wafers):
-  schedule = {}
+  schedule = []
   wafers_unprocessed = []
   wafers_processing  = []
   wafers_processed   = []
@@ -109,10 +108,8 @@ def scheduleWafers(steps,machines,wafers):
         processing_machines.append( [machine_temp[0],machine_temp[1],wafer_to_assign] )
     
     # Update the processing_machine list
-    print("Processing Machines : ",processing_machines)
     for idx,processing_machine in enumerate(processing_machines):
-      print("Processing Machine is : " , processing_machine)
-      modified_machine , new_available_time,modified_wafer = machineProcess(processing_machine)
+      modified_machine , new_available_time,modified_wafer,mw_schedule = machineProcess(processing_machine)
       print("Wafers status after modification : ",wafers_unprocessed)
       if(checkIfNeedCooldown(machine,steps)):
         cooldown_machines.append([modified_machine,new_available_time])
@@ -124,21 +121,24 @@ def scheduleWafers(steps,machines,wafers):
         wafers_unprocessed.append(modified_wafer)
       else :
         wafers_processed.append(modified_wafer)
+      schedule.append(mw_schedule)
     processing_machines = []
+
     # Update the cooldown_machine list 
     for idx,cooldown_machine in enumerate(cooldown_machines):
       modified_machine , new_available_time = machineCooldown(cooldown_machine,machines)
       available_machines.append([modified_machine,new_available_time])
     cooldown_machines = []
   # print(wafers_unprocessed)
-  return writeSchedulePlan()
+  return schedule
 
 def optimalMapping(milestone):
   steps = milestone['steps']
   machines = milestone['machines']
   wafers = milestone['wafers']
   solution = {}
-  solution['schedule'] = scheduleWafers(steps,machines,wafers)    
+  solution['schedule'] = scheduleWafers(steps,machines,wafers)
+  print(solution)    
   return solution
 
 def readFromFile(milestone_name):
